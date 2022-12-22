@@ -1,8 +1,8 @@
 {
   "name": "goit-react-hw-02-phonebook",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://github.com/Vovandir/goit-react-hw-02-phonebook/",
+  "private": true,
+  "homepage": "https://Vovandir.github.io/goit-react-hw-02-phonebook/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
