@@ -1,0 +1,14 @@
+.list {
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.item {
+list-style: none;
+}
+
+.btn { 
+    cursor: pointer;
+    display: inline-block;
+}
