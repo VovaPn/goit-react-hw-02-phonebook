@@ -1,0 +1,8 @@
+.item {
+    list-style: none;
+}
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+}
